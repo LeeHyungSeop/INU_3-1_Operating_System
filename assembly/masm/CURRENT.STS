@@ -1,0 +1,14 @@
+[shared-]
+	pmark=
+	version=2
+[debug-]
+	target="x:\04_adc.exe"
+[cv]
+	wndstate=0 0 0 2 0 1 0 1 0 0 254
+	tilestate=1 24 0 80 0 0 0 67 0 0 0 18 0 0 0 0 0 254
+	command=use auto
+	command=n10
+	command=s1
+	command=oc+
+	command=of+
+	command=o3-
