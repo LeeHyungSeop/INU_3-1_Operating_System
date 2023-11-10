@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ihyeongseob/Desktop/인천대/3학년/1학기/운영체제/01_thread",
+      "program": "/Users/ihyeongseob/Desktop/인천대/3학년/1학기/운영체제/01_thread/build/Debug/outDebug"
+    }
+  ]
+}
