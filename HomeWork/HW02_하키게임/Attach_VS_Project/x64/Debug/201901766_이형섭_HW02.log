@@ -1,0 +1,21 @@
+﻿  main.c
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(89,15): warning C4133: '함수': 'HDC'과(와) 'HWND' 사이의 형식이 호환되지 않습니다.
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(94,15): warning C4133: '함수': 'HDC'과(와) 'HWND' 사이의 형식이 호환되지 않습니다.
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(99,15): warning C4133: '함수': 'HDC'과(와) 'HWND' 사이의 형식이 호환되지 않습니다.
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(103,15): warning C4133: '함수': 'HDC'과(와) 'HWND' 사이의 형식이 호환되지 않습니다.
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(107,15): warning C4133: '함수': 'HDC'과(와) 'HWND' 사이의 형식이 호환되지 않습니다.
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(155,24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(254,27): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(255,30): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(287,37): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(288,40): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(296,37): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(297,40): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(324,43): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(325,1): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(335,42): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(336,1): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(352,30): warning C4133: '함수': 'STICK *'과(와) 'LPRECT' 사이의 형식이 호환되지 않습니다.
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(353,30): warning C4133: '함수': 'STICK *'과(와) 'LPRECT' 사이의 형식이 호환되지 않습니다.
+C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\main.c(371,21): warning C4098: 'OnPaint': 'void' 함수에서 값을 반환하고 있습니다.
+  201901766_이형섭_HW02.vcxproj -> C:\Users\ESE\Desktop\운영체제\201901766_이형섭_HW02\x64\Debug\201901766_이형섭_HW02.exe
