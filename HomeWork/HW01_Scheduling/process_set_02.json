@@ -1,0 +1,64 @@
+[
+    {
+        "process_num" : "p1",
+        "burst_time" : 53,
+        "arrival_time" : 10,
+        "priority" : 4,
+        
+        "real_time" : false,
+        "period" : null,
+        "deadline" : null
+    },
+    {
+        "process_num": "p2",
+        "burst_time": 17,
+        "arrival_time": 20,
+        "priority" : 3,
+        
+        "real_time" : false,
+        "period" : null,
+        "deadline" : null
+    },
+    {
+        "process_num": "p3",
+        "burst_time": 68,
+        "arrival_time": 30,
+        "priority" : 2,
+        
+        "real_time" : false,
+        "period" : null,
+        "deadline" : null
+    },
+    {
+        "process_num": "p4",
+        "burst_time": 24,
+        "arrival_time": 40,
+        "priority" : 1,
+        
+        "real_time" : false,
+        "period" : null,
+        "deadline" : null
+    },
+
+    
+    {
+        "process_num": "p1",
+        "burst_time": 25,
+        "arrival_time": 4,
+        "priority" : 1,
+        
+        "real_time" : true,
+        "period" : 50,
+        "deadline" : 50
+    },
+    {
+        "process_num": "p2",
+        "burst_time": 35,
+        "arrival_time": 4,
+        "priority" : 1,
+        
+        "real_time" : true,
+        "period" : 80,
+        "deadline" : 80
+    }
+]
